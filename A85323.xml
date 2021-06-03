@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first search: after one grand cause of the wrath of God yet against his people, in the use of the so much idolized liturgie, or common prayer. With two and twenty reasons from the word of God, and the late covenant, for the present disuse of it. And proving it, as it is now idolized, to be full against the lawes of this kingdome. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85323</idno><idno type="EEBO-CITATION">99872053</idno>
+  <idno type="VID">155149</idno>
+  <idno type="EEBO-PROQUEST">2240948006</idno>
+  
+            <idno type="STC">Wing F981</idno>
+            <idno type="STC">Thomason E50_11</idno>
+            <idno type="STC">ESTC R2411</idno>
+            <idno type="PROQUEST">99872053</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872053e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155149)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first search: after one grand cause of the wrath of God yet against his people, in the use of the so much idolized liturgie, or common prayer. With two and twenty reasons from the word of God, and the late covenant, for the present disuse of it. And proving it, as it is now idolized, to be full against the lawes of this kingdome. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 4th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155149:1"/>
+            <p>THE FIRST SEARCH: AFTER One grand Cause of the wrath of GOD yet against his people, in the use of the so much Idolized <hi>Liturgie,</hi> or <hi>Common Prayer.</hi>
+            </p>
+            <p>WITH, Two and twenty Reasons from the word of GOD, and the late COVENANT, <hi>for the present disuse of it.</hi>
+            </p>
+            <p>And proving it, as it is now Idolized, to be full against <hi>the Lawes of this Kingdome.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts 19. ver. 19, 20.</hi>
+               </bibl>
+               <p>Many of them which used curious Arts, brought their books, and burned them before all men; and they counted the price of them, and found it fifty thousand pieces of silver:</p>
+               <p>So the word of God grew mightily, and prevailed.</p>
+            </q>
+            <p>
+               <hi>London printed by</hi> Robert White.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:155149:2"/>
+            <head>The Alarum.</head>
+            <p>WHile our Parliament and Assembly are disputing up to a Reformation, and carrying things on to a clearer disco<g ref="char:EOLhyphen"/>very, and looking at things which are before, there is a grand Designe of Sathans working behinde them; a retaining and practising superstition and Popery in the parts of it, by certaine Mi<g ref="char:EOLhyphen"/>nisters, who, what ever they pretend in word, and Covenant to Re<g ref="char:EOLhyphen"/>formation, yet are tied to the Kings party, like <hi>Sampsons</hi> Foxes, by the tailes together, especially in their obedience to the letter of the Law; not daring, as they say, to lay downe the Popish Liturgie of this Kingdome, otherwise called the Common Prayer, till the Law do it; these Ministers are not onely many who have staied in their places, &amp; complied with the publick Cause, but divers of them, such who have beene of late sent downe by the Parliament, and be<g ref="char:EOLhyphen"/>trayed the trust of a Reformation committed to them by that honou<g ref="char:EOLhyphen"/>rable Senate, and reverend Assembly, embasing their owne soules and the peoples: and this I pronounce here upon these following Rea<g ref="char:EOLhyphen"/>sons, to be full against the Law of this Kingdome, the word of God, and the late Covenant so solemnly taken, and to the very end, equi<g ref="char:EOLhyphen"/>ty, and intention of the Laws of this Kingdome; and this practise of theirs is not only a sin in themselves, but they make it as much as in them lies, the sin of the Kingdome, an hinderance to the power of Reformation, and an Engine, not only to stay people upon their old bottomes, but to carry them back again, if not timely prevented, into a deepe degree of Idolatry: These I finde to be the <hi>Danites</hi> in our Tribes, who have caused all our miscarriages, and kept us so even in successe with our Adversaries; and if the prayers and pra<g ref="char:EOLhyphen"/>ctise of Gods people had not weighed against this superstitious cu<g ref="char:EOLhyphen"/>stome of an easie peace-pretending, and timeserving Clergy, we had beene lower in our affaires at this time. This is one <hi>Achan,</hi> and I am searching for more.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:155149:2"/>
+            <head>The Search.</head>
+            <p n="1">I. <seg rend="decorInit">I</seg>T is no <hi>indifferent thing,</hi> being made a part of Gods worship, for that which is once drawne out, and come abroad into circumstances, be<g ref="char:EOLhyphen"/>comes actually or individually either good or evill; this is an undeniable truth, both from <hi>Scripture,</hi> and <hi>Schoole-Divinity;</hi>
+               <note place="margin">1 Cor. 6.12. Rom. 14.19. 1 Cor. 10.13.</note> I quoate the last, because it is in such reputation with the corrupted Cler<g ref="char:EOLhyphen"/>gy; and further, it wants one essentiall property of an <hi>indiffe<g ref="char:EOLhyphen"/>rent thing,</hi> which is this, <hi>not to offend the weake,</hi>
+               <note place="margin">1 Cor. 8.9.</note>
+               <hi>nor put a stum<g ref="char:EOLhyphen"/>bling block before them.</hi>
+            </p>
+            <p n="2">II. It is <hi>Idolized</hi> in all those places where it is used, and this ap<g ref="char:EOLhyphen"/>peares from the practise of the Ministers, who, if they do it from their own principles, unconstrained by the people,<note place="margin">2 Kings 18.4. Exod. 32.1.19, 20. Judg. 8.24, 25, 27. 2 King. 18.4.</note> Ido<g ref="char:EOLhyphen"/>lize it themselves; if they do it, constrained and necessitated, it is Idolized by the people, and <hi>Hezekiah removed the high places, and brake in pieces the brazen Serpent that Moses had made, for unto those dayes the children of Israel did burne Incense unto it.</hi>
+            </p>
+            <pb n="2" facs="tcp:155149:3"/>
+            <p n="3">III. It is unlawfull, for it is <hi>Will-worship,</hi> and a devised service of man,<note place="margin">Col. 2.22, 23. Mat. 15.9.</note>
+               <hi>In vaine do they worship me, teaching for doctrines, the traditions of men;</hi> nor is it a <hi>directory</hi> made even and fit to the <hi>Word,</hi> as is in other Reformed Churches; it symbolizes with the <hi>Masse-booke,</hi> having many Popish formes in it, as appeares in the former approbations it received from <hi>Popes,</hi>
+               <note place="margin">2 King. 10.27, 28. 2 King. 16.2.10. 2 King. 17.41. 2 Cor. 6.14, 16.</note> and those others of the Romish Idolatry, and the late paralels which hath justly and commensurately beene made, betwixt it and the Masse-book; <hi>And what communion hath light wi h darknesse, Christ with Beliall? what agreement hath the Temple of God with Idols?</hi>
+            </p>
+            <div type="part">
+               <head>Reasons for the present disuse of it.</head>
+               <p n="1">I. THe equity of the late solemne League and Covenant, cals for the abolition of it,<note place="margin">Covenant. Artic. 1.</note> we having Covenanted a<g ref="char:EOLhyphen"/>gainst all communion with Popery, and Popish rites, &amp;c. against whatsoever <hi>makes against the power of godlinesse,</hi> super<g ref="char:EOLhyphen"/>stition; now what grosse hypocrisie is this, to renounce super<g ref="char:EOLhyphen"/>stitions in word, and not in practise, and deed, to fight against the Prelaticall Protestant in the field, and symbolize with them in the Church; to Covenant to an immediate Refor<g ref="char:EOLhyphen"/>mation <hi>to the word of God,</hi>
+                  <note place="margin">2 King. 10.29.</note>
+                  <hi>and best Reformed Churches,</hi> and re<g ref="char:EOLhyphen"/>taine that which is offensive to them all.</p>
+               <p n="2">II. That the only ground of extirpation of Episcopacy, was this, because it was not a forme of government <hi>according to the word, no more is this a directory according to the word,</hi> and while we extirpate Episcopacy, and leave its directory and Rites standing; what is it but to flatter our owne hearts, like <hi>Saul,</hi>
+                  <pb n="3" facs="tcp:155149:3"/>saying, <hi>I have performed all the Commandements of the Lord;</hi>
+                  <note place="margin">1 Sam. 15.13, 14, 15.</note>
+                  <hi>but</hi> Samuell <hi>said, what meanes then this bleating, and the lowing of the Oxen?</hi>
+               </p>
+               <p n="3">III. It was a sin in our first Reformers, though of infirmity, and for the hardnesse of peoples hearts,<note place="margin">Exod. 32.1, 2.</note> they retained these Popish and superstitious formes, and composed such a forme as the people might be drawn out of Popery by such graduall con<g ref="char:EOLhyphen"/>descendings, but we see the Designe being carnall,<note place="margin">Revel. 21.8.</note> (with reve<g ref="char:EOLhyphen"/>rence to their memories) &amp; not a <hi>bold and cleare comming up to the word hath not succeeded,</hi> but rather carried the judgments of many back, confirmed Papists, retarded Protestants, and clog<g ref="char:EOLhyphen"/>ed the advancement of Reformation, therefore now to be de<g ref="char:EOLhyphen"/>clined.</p>
+               <p n="4">IV. That we are not to feare the rage and mutinies of people in Designes of Reformation; nor are we to accommodate,<note place="margin">Mat. 16.25. Act. 17.16, 17 Revel 21.8. Act. 18.25.26 Isai. 8.20. Ezth. 43.10, 12. 1 King. 12.26, 27.</note> or comply, as in other Civill and Politick transactions, that was our Reformers sin, (with reverence to their memories) that was <hi>Ieroboams</hi> sin, in setting up the golden Calves, <hi>to keepe the Tribes from revolting;</hi> there is no such latitude to be found in the word for the worship of God; besides the experiences this State hath ever found in their endeavours to Reformation; in the first, King <hi>Edward,</hi> and Queen <hi>Elizabeth,</hi> though they went but part of the way, yet with what admirable successe, considering how they turned the streame of Popery, when the tyde was at the height, and of late what experience hath this State had? <hi>Was not Episcopacy as much Idolized as this Book can be?</hi> Was it not as dangerous to Covenant against <hi>neutrali<g ref="char:EOLhyphen"/>ty</hi> too, it being the popular sin of the Kingdome? In spirituall Designes, there is no successe like that <hi>pure and unmixed policy, of doing his work, and trusting him to the successe.</hi>
+               </p>
+               <p n="5">V. That there is no necessity of keeping up this till another di<g ref="char:EOLhyphen"/>rectory be made, no more, then there was a necessity of
+<pb n="4" facs="tcp:155149:4"/>keeping up Episcopacy till another forme of Govern<g ref="char:EOLhyphen"/>ment should be erected,<note place="margin">Exod. 32.1. Exod. 32.<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Exod. 32.15. Act. 7.40, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that was the Israelites sin, <hi>that must needs have something to goe before them in</hi> Moses <hi>stead, though it were but a Calfe of</hi> Aarons <hi>making, and were impatient to waite, till the lawes of God came down amongst them.</hi>
+               </p>
+               <p n="6">VI. That in the reading of any part of it, or using but some of the formes in it, it being proved to be unlawfull, there is an inconsistency with the <hi>Rule,</hi> which commands <hi>to avoid all ap<g ref="char:EOLhyphen"/>pearance of evill,</hi>
+                  <note place="margin">1 Thes. 5.22.</note> nor can any part of it be held out, but in re<g ref="char:EOLhyphen"/>lation to the whole (as we finde experimentally to be true) for if you demand of any in such a ministers congregation; whether doth your minister read the <hi>Service-booke,</hi> or no? The party shall answer, yea, relating to the notion of the whole, not to such or such a <hi>Collect,</hi> or <hi>part,</hi> and now it being found by experience to be so Idolized, the word holds out to us a totall abolition of it, and every part, respectively to the whole, as in <hi>Gideons Ephod,</hi> the <hi>Brasen Serpent, Aarons Calfe,</hi>
+                  <note place="margin">Judg. 8, 27. 2 King. 18.4.</note> which were all, and every part to be destroyed.</p>
+               <p n="7">VII. That no Minister can approve himselfe to God sufficiently in saying his ends are good in the doing of it, for when any thing becomes passively evill, it is not enough to justifie the practise, to say the end was good, for what ever the ends be, God allowes no incongruity of worship in the meanes; good ends must be pursued by good and lawful means: now though the ministers may have these ends in using part of it, to com<g ref="char:EOLhyphen"/>ply with his people, that he may the better preach the word, yet this end of his becomes embased by such a practice; no <hi>evil</hi> must be done that <hi>good</hi> may come thereof.<note place="margin">Rom. 3.8.</note>
+               </p>
+               <p n="8">VIII. That if the reason of holding up any part of it, be in favour to the people, all such compliancy cannot be denied, but to be a strengthening of their corrupted and Superstitious judge<g ref="char:EOLhyphen"/>ments
+<pb n="5" facs="tcp:155149:4"/>in that part which is read or used, till it be laid down, and this is not to walke according to the simplicity, upright<g ref="char:EOLhyphen"/>nesse, and manifestation commanded in the word; thus <hi>Paul</hi> rebuked <hi>Peter</hi> for not walking uprightly according to the truth of the Gospel; nor ought we to walk in <hi>craftinesse,</hi>
+                  <note place="margin">2 Cor. 4.2.</note> nor to handle the word of God <hi>deceitfully,</hi> but in manifestation of the truth,<note place="margin">2 Cor. 4.2.</note> approving our selves to every mans conscience in the sight of God.</p>
+               <p n="9">IX. That if the holding up any part of it be in respect to the Laws of this Kingdom, then it would follow, that it is not lawfull for any man to follow the word and Law of God, till the law of the Magistrate give him leave, and disobliged him; all humane lawes receive their equity and authority from their commensuration to the Law of God, and as the powers which are to be obeyed, are from God, so must the lawes be too, or else they are invalid, <hi>ipso facto:</hi> for when any law be<g ref="char:EOLhyphen"/>comes contrary, or inconsistent with the law and glory of God, then the rule takes place,<note place="margin">Acts 4.19.</note>
+                  <hi>whether it be better to obey God or man, judge ye?</hi> And suppose there should be such interupti<g ref="char:EOLhyphen"/>ons and obstructions still, as the law could not be enacted yet for taking them away, would these men live all their times like the Adiaphorists of <hi>Germany,</hi> still waiting and waiting, and trifling on in their Superstitious rites and usages; <hi>He that regardeth the winde shall not sow,</hi>
+                  <note place="margin">Eccles. 11.4.</note>
+                  <hi>and he that regardeth the cloud shall not reape:</hi> This argument of the Law and established Government,<note place="margin">Acts 6.13, 14.</note> the adversaries of God have alwayes held out against all Reformation, the Prelates have ever held it out a<g ref="char:EOLhyphen"/>gainst all godly Ministers, the Malignants now cry out,<note place="margin">Esther 3.8.</note> let the law do it; so as we can esteeme no better of many such Ministers that use this argument now, then as time-servers,<note place="margin">Ezia 4.12, 13 15.</note> Law-servers, who let out, and take in their consciences, and practise according to the law of the land,<note place="margin">Act 17.6, 7.</note> waving the Su<g ref="char:EOLhyphen"/>premacy of the law of God; and indeed they are the greatest transgressors against the Law of the Kingdome,
+<pb n="6" facs="tcp:155149:5"/>for the law was never intended an obstruction to the power of godlinesse and Reformation; so as these Ministers like the Kings party now, take hold on the letter, and we on the e<g ref="char:EOLhyphen"/>quity of the Law.</p>
+               <p n="10">X. That if the holding up any part be in imitation of the Apostle, who <hi>became all to all, that he might gaine some,</hi> they must prove first, which is impossible, that these formes are of Gods own institution, as some of the Ceremoniall Law then was, which might well priviledge more connivence and con<g ref="char:EOLhyphen"/>descending, and likewise that the holy spirit allowes such a latitude as they take, that is, to become all to all in any thing, be it superstitious, or Idolatrous, for such a bowing to the in<g ref="char:EOLhyphen"/>firmity and weaknes of others, is not to be in things unlawful, though the end they propose be the gaining of some; <hi>do I seek to please men?</hi>
+                  <note place="margin">Gal. 1.10.</note> sayes the Apostle, <hi>for if I yet pleased men, I should not be the servant of Christ.</hi>
+               </p>
+               <p n="11">XI. That such condescending and complying is not from the Spirit of God,<note place="margin">Joh. 12.42, 43</note> but from carnall reason, as they who <hi>believed in Christ, but durst not confesse him, least they should be put out of the Synagogue; they loved the praise of men more then the praise of God;</hi> and like <hi>Naaman,</hi> who bowed in the house of <hi>Rim<g ref="char:EOLhyphen"/>mon,</hi> and then desired the Prophet <hi>to pray for him,</hi>
+                  <note place="margin">2 Kin. 5.18.</note> and like <hi>Nicodemus,</hi> who durst not be seen to come to Christ by day, but came by night: and like that Polititian, that would not follow truth too neer, lest it dashed out his brains.</p>
+               <p n="12">XII. That all such who continue the use of the Common prayer in the parts of it, respectively to the whole, without which it cannot else be done, as it now stands, betray the trust re<g ref="char:EOLhyphen"/>posed in them by the State, who are sent down to preach the word in the power of godlinesse, and to unprinciple the peo<g ref="char:EOLhyphen"/>ple from those Superstitions, which the former had laid in,
+<pb n="7" facs="tcp:155149:5"/>by the constant use of the received formes and customes and how this can be done in that just and single manifestation of the truth, which the Gospell calls for in a time of Reforma<g ref="char:EOLhyphen"/>tion, I appeale to the <hi>Gospell,</hi> to which they must give an ac<g ref="char:EOLhyphen"/>count one day.</p>
+               <p n="13">XIII. Whether in any such mixed &amp; unwarrantable dispensation, as in preaching the word, &amp; making use of these formes, such Ministers do approve themselves <hi>fuithfull Stewards of the my<g ref="char:EOLhyphen"/>steries of grace,</hi>
+                  <note place="margin">1 Cor. 4.1.</note> as the word cals them, it being required in Stewards, that they be found faithfull, and what faithful<g ref="char:EOLhyphen"/>nesse can there be in not revealing the whole Counsels of God, which in such compliancy they cannot do, but retaines the truth of God in unrighteousnesse.</p>
+               <p n="14">XIV. All the reformed Churches of <hi>Scotland, France, Germany, Geneva, New-England,</hi> &amp;c. have been ever scandalized, and sadly offended at it, all the godliest congregations and Mi<g ref="char:EOLhyphen"/>nisters of <hi>England</hi> are offended by it at this day,<note place="margin">1 Cor. 10.32.</note>
+                  <hi>Give no offence to Jew, nor Gentile, nor to the Churches of God.</hi>
+               </p>
+               <p n="15">XV. It is an halting betwixt two opinions, and <hi>if God be God fol<g ref="char:EOLhyphen"/>low him;</hi> it is receiving the <hi>marke of the beast in their right hand,</hi>
+                  <note place="margin">1 King. 18.21. Rev. 13.16.</note> though not in their <hi>foreheads;</hi> that is, though they make no open profession of superstition and Idolatry: And again, such mixture in worship, puts them into a condition with the Churches which God so much detects, that of <hi>Pergamus,</hi> which though she held fast his name,<note place="margin">Rev. 2.15.</note> yet <hi>he had a few things against her, she held the doctrine of the Nicholaitans, &amp;c.</hi> and that of <hi>Thyatira,</hi> which though she had saith; yet he had a few things against her, <hi>she suffered Jezebel to teach and seduce her ser<g ref="char:EOLhyphen"/>vants,</hi>
+                  <note place="margin">Rev. 2.20.</note> &amp;c. and that of <hi>Laodicea,</hi> which he sayes,<note place="margin">Rev. 3.15.</note>
+                  <hi>was neither hot nor cold;</hi> such neutrality as this of theirs, is against the Gospel, <hi>he that is not with me, is against me,</hi>
+                  <note place="margin">Mat. 12.30.</note> and against the
+<pb n="8" facs="tcp:155149:6"/>present Covenant in which they are engaged.</p>
+               <p n="6">XVI. That the present Reformation is sadly obstructed by such a practise, because such compliancy holds more communion with the malignant and enemy, then with the godly, and pre<g ref="char:EOLhyphen"/>fers the indulgency of the others superstition, before the of<g ref="char:EOLhyphen"/>fence of the people and Churches of God.</p>
+               <p n="17">XVII. That the use of such formes offend against the very Law of this Kingdome, which they so much pretend; for the Law in its end, equity, and intention, never intended any such forme to be an hinderance to edification, to be a strengthening to superstition, to be an offence to the Churches of Christ; which in the use of it now becomes all these, as every where appeares, nor can they ever be able to shew us any Lawes or Statutes of this Kingdome so for it as they pretend, this Common Prayer book being so corrupted and transformed by the Bishops.</p>
+               <p n="18">XVIII. That those godly people who had escaped these pollutions, are easily encouraged by such an example, if not to returne, &amp; take up these againe, yet at best to abate and coole in their detestation of them, as we experimentally find; and thus they cast water upon their zeales,<note place="margin">1 Thes. 5.19. Ephes. 4.30.</note> and go on in a degree to quench the spirit of another, as well as their owne, which is no little hazard to their souls, by their daily familiarity and reading of it, making it by such a practise, a standing temptation; and thus they prove a sad occasion to the godly and themselves, of building againe the things which they destroyed,<note place="margin">Gal. 1.9.</note> and <hi>intangle themselves again in the yoake of bondage, from which Christ hath set them free; and returne again to the base &amp; beggerly rudiments.</hi>
+               </p>
+               <p n="19">XIX. That whereas the disuse of it will be held by some impos<g ref="char:EOLhyphen"/>sible, in places where Ministers are w<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly gifted, let them
+<pb n="9" facs="tcp:155149:6"/>then hold out the Word it selfe in its integrity, and use such other formes for the present, as may he borrowed from the more Reformed directories, and rather in such an exigency, aske water at the purer Churches, then at the Samaritans, and borrow from Scotland and other Reformed Churches, till we have of our owne; nor is there such a morall necessity of keeping up these Formes, till another be set up; must <hi>Aaron</hi> needs set up a <hi>Calfe,</hi> till <hi>Moses</hi> bring downe the <hi>Law?</hi> we may as well, for ought I know, want this directory of our Litun<g ref="char:EOLhyphen"/>gie, as the government of Episcopacy, want our old directo<g ref="char:EOLhyphen"/>ry, as our old Discipline.</p>
+               <p n="20">XX. That which may further encourage, &amp; silently perswade to a laying by these formes, is the practise of our <hi>Parliament</hi> of our Reverend <hi>Assembly</hi> of the godliest <hi>Ministers</hi> and Congrega<g ref="char:EOLhyphen"/>tions in this Kingdom, which have all laid it by; and brethren, be followers of them, <hi>as they are of Christ.</hi>
+               </p>
+               <p n="21">XXI. That seeing such a forme cannot justly be ever made use on againe by this State, according to the Covenant they have so solemnly entred into, to do all things to the word of God, and example of the best Reformed Churches, to extirpate all Popery and Superstition; which principles do virtually, and actually cast out such formes, they ought to lay downe, if they will be true to their Obligations, to the Reformation according to the Gospell, and to the preparing the soules of the people by the Word, for receiving the truths of a Refor<g ref="char:EOLhyphen"/>mation, and purer Directory, which cannot be done, while they suffer the <hi>strong man to possesse the house:</hi> Remember Christ had a <hi>voice before him, crying,</hi>
+                  <note place="margin">Mat. 12.29.</note>
+                  <hi>Prepare yee, the way of the Lord; and his Disciples went before him at the Passeover, and tooke up a Chamber before hand, and there made ready for him.</hi>
+               </p>
+               <p n="22">XXII. Lastly, It is point blank, and full against the Covenant; a<g ref="char:EOLhyphen"/>gainst these very Articles of it.</p>
+               <pb n="10" facs="tcp:155149:7"/>
+               <p n="1">
+                  <note place="margin">Late Cove<g ref="char:EOLhyphen"/>nant.</note>1. <hi>The Reformation of Religion in the Kingdomes of England and Ireland,</hi>
+                  <note place="margin">Artic. 1.</note>
+                  <hi>in Doctrine, Worship, Discipline, and Government, according to the Word of God, and the example of the best Reformed Churches, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>That we shall endeavour the extirpation of Popery,</hi>
+                  <note place="margin">Artic. 2</note>
+                  <hi>&amp;c. Supersti<g ref="char:EOLhyphen"/>tion, &amp;c. and whatsoever shall be found to be contrary to sound Do<g ref="char:EOLhyphen"/>ctrine, and the power of godlinesse.</hi>
+               </p>
+               <p>
+                  <hi>We shall also with all faithfulnesse endeavour the discovery of all such as have beene,</hi>
+                  <note place="margin">Artic. 4.</note>
+                  <hi>or shall be Incendiaries, Malignants or evill Instruments, by hindering the Reformation of Religion.</hi>
+               </p>
+               <p>
+                  <hi>We shall not directly nor indirectly suffer our selves to be with<g ref="char:EOLhyphen"/>drawne,</hi>
+                  <note place="margin">Artic. 6.</note>
+                  <hi>&amp;c. or to give our selves to a detestable indifferency or neutrality, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>We professe and declare before God and the world,</hi>
+                  <note place="margin">Artic. 6.</note>
+                  <hi>our unfained desire to be humbled for our owne sinnes, and for the sins of these Kingdomes; that we have not as we ought, valued the inestimable benefit of the Gospell, that we have not laboured for the purity and power thereof, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>And our true and unfained purpose, desire and endeavour for our selves, and all others in our power and charge, both in publick and private, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Each one to go before another in the example of a reall Reforma<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <hi>And this Covenant we make in the presence of Almighty God.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="afterword">
+            <p>If none of these Ministers I speake to answer me, their silence is Argu<g ref="char:EOLhyphen"/>ment enough against them, and if any of them undertake to Answer, they must needs goe upon the same grounds with the Prelates, and <hi>Oxford</hi> par<g ref="char:EOLhyphen"/>ty, and use their Arguments against me, and borrow their weapons from thence, and then I desire no better a discovery of such men, but shall leave them to the State as criminall. <hi>And Ioash said unto all that stood against him, will yee plead for Baal? will yee save him? if he be a God, let him plead for himselfe? because one hath cast downe his Altar,</hi> Judg. 6.31.</p>
+            <pb n="1" facs="tcp:155149:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:155149:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
